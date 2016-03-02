@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/.idea/*.name
+/.idea
+/gradle/wrapper
+/gradlew
+/gradlew.bat
+/app/src/test/java/com/bemetoy/slidingdrawer/ExampleUnitTest.java
+/app/src/androidTest/java/com/bemetoy/slidingdrawer/ApplicationTest.java
